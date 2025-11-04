@@ -1,15 +1,17 @@
 <!-- =========================== HEADER =========================== -->
 
-<p align="center" style="margin-bottom: 0;">
-  <img src="assets/header.png" alt="boba cat" width="120" height="120" style="border-radius:50%; vertical-align:middle; margin-right: 18px;"/>
-  <span style="font-size: 42px; font-weight: 800; vertical-align: middle; color:#7E57C2;">
-    Gouri Menon
-  </span>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="assets/header.png" width="120" height="120" alt="boba cat"></td>
+      <td>
+        <h1 style="font-size:40px; color:#7E57C2;">Gouri Menon </h1>
+        <em> data & ml engineer · cloud ai · software dev </em>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center" style="font-size: 16px; margin-top: 6px;">
-  <em>data & ml engineer · cloud ai · software dev </em>
-</p>
 
 <!-- WAVE DIVIDER -->
 <p align="center">
