@@ -89,7 +89,7 @@
   <p>two AWS Lambda functions (ingest + filter) feeding Athena views into Power BI dashboards for dynamic visuals.</p>
   <b>stack:</b> aws · athena · power bi  
   <br/>
-  <a href="https://github.com/gourimenon8/aws-lambda-athena-powerbi-nyc-taxi">repo (coming soon) →</a>
+  <a href="https://github.com/gourimenon8/aws-lambda-athena-powerbi-nyc-taxi">repo →</a>
 </td>
 </tr>
 </table>
