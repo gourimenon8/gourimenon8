@@ -1,14 +1,23 @@
-<!-- HEADER BANNER (use your own 1600x400 image in /assets) -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="assets/header.png" alt="Gouri Menon – Data & ML Engineer" width="100%" />
+  <img src="assets/banner.svg" alt="Gouri Menon – Data & ML Engineer" width="100%" />
 </p>
+
+<!-- FLOATING CAT ICON -->
+<p align="right">
+  <img src="assets/header.png" alt="boba cat" width="96" height="96" style="border-radius:50%;"/>
+</p>
+
+<h1 align="center">☕ Hi, I’m <a href="https://github.com/gourimenon8">Gouri Menon</a> 💜</h1>
+<h3 align="center">Data & ML Engineer · Cloud AI · Streamlit Enthusiast</h3>
+
 
 <!-- WAVE DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=90&section=header" />
 </p>
 
-<h1 align="center">hi, i’m <a href="https://github.com/gourimenon8">gouri</a> ☕</h1>
+<h1 align="center">hi, i’m <a href="https://github.com/gourimenon8">Gouri Menon</a> ☕</h1>
 <p align="center">
   <em>ml engineer • cloud ai • streamlit enjoyer • café native</em>
 </p>
@@ -64,7 +73,7 @@
 <table>
 <tr>
 <td width="35%">
-  <img src="assets/banner.png" alt="Citi Bike Forecasting" width="100%"/>
+  <img src="assets/citybike-forecasting.png" alt="Citi Bike Forecasting" width="100%"/>
 </td>
 <td>
   <h3>📈 Citi Bike Forecasting (on Snowflake Snowpark)</h3>
@@ -87,7 +96,7 @@
   <p>two AWS Lambda functions (ingest + filter) feeding Athena views into Power BI dashboards for dynamic visuals.</p>
   <b>stack:</b> aws · athena · power bi  
   <br/>
-  <a href="#">repo (coming soon) →</a>
+  <a href="https://github.com/gourimenon8/aws-lambda-athena-powerbi-nyc-taxi">repo (coming soon) →</a>
 </td>
 </tr>
 </table>
