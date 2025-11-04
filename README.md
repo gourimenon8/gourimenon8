@@ -8,10 +8,6 @@
   <img src="assets/header.png" alt="boba cat" width="96" height="96" style="border-radius:50%;"/>
 </p>
 
-<h1 align="center">☕ Hi, I’m <a href="https://github.com/gourimenon8">Gouri Menon</a> 💜</h1>
-<h3 align="center">Data & ML Engineer · Cloud AI · Streamlit Enthusiast</h3>
-
-
 <!-- WAVE DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=90&section=header" />
