@@ -1,74 +1,116 @@
-<!-- HEADER -->
-<h1 align="center">✨ Hey, I’m <a href="https://github.com/gourimenon8">Gouri Menon</a> ☕</h1>
-<h3 align="center">Data & ML Engineer · Cloud AI Enthusiast · Lifelong Café Dweller 💜</h3>
+<!-- HEADER BANNER (use your own 1600x400 image in /assets) -->
+<p align="center">
+  <img src="assets/header.png" alt="Gouri Menon – Data & ML Engineer" width="100%" />
+</p>
+
+<!-- WAVE DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=90&section=header" />
+</p>
+
+<h1 align="center">hi, i’m <a href="https://github.com/gourimenon8">gouri</a> ☕</h1>
+<p align="center">
+  <em>ml engineer • cloud ai • streamlit enjoyer • café native</em>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Purple%20Vibes-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-ML%20%7C%20MLOps%20%7C%20Cloud-9370DB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fueled%20By-Coffee%20%26%20Curiosity-DA70D6?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=B784F4&center=true&vCenter=true&width=850&lines=building+real-time+ml+systems;automating+data+pipelines;designing+cloud-native+ai+apps;purple+theme+only+%F0%9F%92%9C" />
+</p>
+
+<!-- BADGE STRIP -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Purple-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-ML%20%7C%20MLOps%20%7C%20Cloud-9B59B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fueled_by-Coffee-BA68C8?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
 </p>
 
 ---
 
-### ☁️ About Me
+### about me
 
-I’m **Gouri**, a Data Scientist & ML Engineer who loves bringing *intelligence to life* —  
-whether that’s a model predicting something smart, or a dashboard that feels alive.
-
-💜 I live in that sweet intersection of **machine learning**, **automation**, and **cloud orchestration**.  
-☕ Most of my projects were conceptualized in cozy cafés with my laptop, lo-fi beats, and a cup of flat white.  
-💭 Currently experimenting with **real-time ML systems**, **PyTorch optimization**, and **Snowflake AI pipelines**.
+- i love turning notebooks into **living apps** and **automated pipelines**  
+- i’m currently exploring **gpu-accelerated training** (pytorch + cuda) and **serverless orchestration** (lambda/glue)  
+- if i’m not coding, i’m probably in a cozy café sketching ui ideas on napkins 💜
 
 ---
 
-### 🧠 What I Do
-
-- **Design intelligent systems** — from data collection to real-time inference  
-- **Automate everything** — because repetitive work deserves robots  
-- **Build visually delightful apps** — dashboards, Streamlit, and web-based tools  
-- **Mentor myself** — through constant learning, mistakes, and midnight debugging
-
----
-
-### 🧰 Toolbox
+### toolbox (purple edition)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,snowflake,docker,kubernetes,git,github,streamlit,postman,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,snowflake,docker,kubernetes,git,github,fastapi,linux,postgres,sqlite,streamlit,vscode&perline=8" />
 </p>
 
 ---
 
-### ☕ Projects I’ve Been Brewing
+### featured brews (projects)
 
-| 🌸 Project | ✨ Description | 🧰 Tech |
-|:--|:--|:--|
-| 💫 **CryptoFlow 5m** | Real-time crypto portfolio optimizer retraining every 5 minutes with Streamlit UI | Python · SciPy · APScheduler · Streamlit |
-| ☁️ **Citi Bike on Snowflake** | Feature engineering + forecasting pipeline built with Snowpark Tasks & Streams | Snowflake · Python · SQL |
-| 🔮 **ML Inference Pipeline** | Auto-train → deploy → monitor pipeline using AWS & MLflow | AWS · MLflow · Docker |
-| 🎨 **Streamlit AI Dashboard** | Aesthetic web app for explainability & live predictions | Streamlit · Plotly · FastAPI |
-| 🪄 **Salary Prediction App** | Interactive salary estimator for roles & locations | scikit-learn · Streamlit |
+<!-- CARD 1 -->
+<table>
+<tr>
+<td width="35%">
+  <img src="assets/cryptoflow.png" alt="CryptoFlow 5m" width="100%"/>
+</td>
+<td>
+  <h3>🚀 CryptoFlow 5m</h3>
+  <p>real-time crypto portfolio optimizer retraining every 5 minutes with a live streamlit dashboard.</p>
+  <b>stack:</b> python · scipy · apscheduler · streamlit  
+  <br/>
+  <a href="https://github.com/gourimenon8/cryptoflow-5m">repo →</a>
+</td>
+</tr>
+</table>
 
----
-### 💌 Connect with Me
+<!-- CARD 2 -->
+<table>
+<tr>
+<td width="35%">
+  <img src="assets/banner.png" alt="Citi Bike Forecasting" width="100%"/>
+</td>
+<td>
+  <h3>📈 Citi Bike Forecasting (on Snowflake Snowpark)</h3>
+  <p>feature-engineering + forecasting pipeline with tasks & streams, serving analytics directly from Snowflake.</p>
+  <b>stack:</b> snowflake · python · sql  
+  <br/>
+  <a href="https://github.com/gourimenon8/citibike-foreacasting">repo →</a>
+</td>
+</tr>
+</table>
+
+<!-- CARD 3 -->
+<table>
+<tr>
+<td width="35%">
+  <img src="assets/powerbi.png" alt="Power BI Dashboard" width="100%"/>
+</td>
+<td>
+  <h3>⚡ Serverless ETL → Athena → Power BI</h3>
+  <p>two AWS Lambda functions (ingest + filter) feeding Athena views into Power BI dashboards for dynamic visuals.</p>
+  <b>stack:</b> aws · athena · power bi  
+  <br/>
+  <a href="#">repo (coming soon) →</a>
+</td>
+</tr>
+</table>
+
+<!-- MINI SHOWCASE IMAGE -->
+<p align="center">
+  <img src="assets/drusen.png" alt="Drusen Segmentation Showcase" width="70%" style="border-radius:12px;"/>
+  <br/>
+  <sub><i>🩺 Retinal OCT Drusen Segmentation · Research prototype built in PyTorch (SAM + mask overlays)</i></sub>
+</p>
+
+<!-- WAVE DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BA68C8&height=90&section=footer&reversal=true" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gouri-menon-646b17b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/let's%20connect-LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gourimenon8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/gourimenon8">
-    <img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/say%20hi-Email-B784F4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/11558683/210142492-490b9151-4ec5-4b05-8b89-c7b7b34e14a2.gif" width="60"/>
-</p>
-
-<p align="center">
-  <i>“Somewhere between Python scripts and espresso shots, I find my flow.”</i>
-</p>
+<p align="center"><i>“somewhere between python scripts and espresso shots, i find my flow.”</i></p>
