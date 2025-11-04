@@ -4,7 +4,7 @@
 </p>
 
 <!-- FLOATING CAT ICON -->
-<p align="right">
+<p align="centre">
   <img src="assets/header.png" alt="boba cat" width="96" height="96" style="border-radius:50%;"/>
 </p>
 
@@ -99,7 +99,7 @@
 
 <!-- MINI SHOWCASE IMAGE -->
 <p align="center">
-  <img src="assets/drusen.png" alt="Drusen Segmentation Showcase" width="70%" style="border-radius:12px;"/>
+  <img src="assets/drusen.png" alt="Drusen Segmentation Showcase" width="30%" style="border-radius:12px;"/>
   <br/>
   <sub><i>🩺 Retinal OCT Drusen Segmentation · Research prototype built in PyTorch (SAM + mask overlays)</i></sub>
 </p>
