@@ -1,12 +1,14 @@
 <!-- =========================== HEADER =========================== -->
 
-<p align="center">
-  <img src="assets/header.png" alt="boba cat" width="80" height="80" style="border-radius:50%; vertical-align:middle; margin-right: 12px;"/>
-  <span style="font-size: 36px; font-weight: bold; vertical-align: middle;">Gouri Menon 💜</span>
+<p align="center" style="margin-bottom: 0;">
+  <img src="assets/header.png" alt="boba cat" width="120" height="120" style="border-radius:50%; vertical-align:middle; margin-right: 18px;"/>
+  <span style="font-size: 42px; font-weight: 800; vertical-align: middle; color:#7E57C2;">
+    Gouri Menon
+  </span>
 </p>
 
-<p align="center">
-  <em>data & ml engineer · cloud ai · streamlit enjoyer · café native</em>
+<p align="center" style="font-size: 16px; margin-top: 6px;">
+  <em>data & ml engineer · cloud ai · software dev </em>
 </p>
 
 <!-- WAVE DIVIDER -->
@@ -74,7 +76,7 @@ my current focus lies in mlops, gpu-accelerated model training (pytorch + cuda),
 </td>
 <td>
   <h3>📈 Citi Bike Forecasting (Full Pipeline) </h3>
-  <p>end-to-end time-series forecasting pipeline for NYC Citi Bike usage — from data collection and feature engineering to model training, evaluation, and deployment via Streamlit.</p>
+  <p>end-to-end time-series forecasting pipeline for NYC Citi Bike usage, from data collection and feature engineering to model training, evaluation, and deployment via Streamlit.</p>
   <b>stack:</b> s python · sklearn · pandas · streamlit · docker    
   <br/>
   <a href="https://github.com/gourimenon8/citibike-foreacasting">repo →</a>
