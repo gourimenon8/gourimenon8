@@ -32,7 +32,7 @@
 
 ---
 
-### about me
+### ☁️ about me
 
  i'm Gouri Menon, a data & ml engineer with a Master's in Data Science from the University at Buffalo, (Engineering Science).  
 my journey began with Physics + Mathematics background, which shaped how i approach modeling and computation  
@@ -45,7 +45,7 @@ what excites me most: designing elegant data flows that are fast, transparent, a
 
 ---
 
-###  toolbox 
+### 🧰 toolbox 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,snowflake,docker,kubernetes,git,github,fastapi,linux,postgres,sqlite,streamlit,vscode&perline=8" />
