@@ -19,7 +19,6 @@
 
 <!-- BADGE STRIP -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Purple-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-ML%20%7C%20MLOps%20%7C%20Cloud-9B59B6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Fueled_by-Coffee-BA68C8?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
 </p>
@@ -34,7 +33,7 @@
 
 ---
 
-### 🧰 toolbox (purple edition)
+### 🧰 toolbox 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,snowflake,docker,kubernetes,git,github,fastapi,linux,postgres,sqlite,streamlit,vscode&perline=8" />
