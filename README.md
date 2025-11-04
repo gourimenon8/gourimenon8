@@ -1,23 +1,35 @@
-<!-- HEADER BANNER -->
+<!-- =========================== HEADER (keep above projects) =========================== -->
+
+<!-- TOP HEADER: Cat + Name inline -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="assets/header.png" alt="boba cat" width="110" height="110" style="border-radius:50%;" />
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <h1 style="margin-bottom:6px;">☕ Gouri Menon 💜</h1>
+        <h3 style="margin-top:0;">Data & ML Engineer · Cloud AI · Streamlit Enthusiast</h3>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- PURPLE BANNER / WAVE -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Gouri Menon – Data & ML Engineer" width="100%" />
+  <img src="assets/banner.svg" alt="Gouri Menon — Data & ML Engineer" width="100%" />
 </p>
 
-<!-- FLOATING CAT ICON -->
-<p align="centre">
-  <img src="assets/header.png" alt="boba cat" width="96" height="96" style="border-radius:50%;"/>
-</p>
-
-<!-- WAVE DIVIDER -->
+<!-- SECONDARY WAVE DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=90&section=header" />
 </p>
 
-<h1 align="center">hi, i’m <a href="https://github.com/gourimenon8">Gouri Menon</a> ☕</h1>
-<p align="center">
-  <em>ml engineer • cloud ai • streamlit enjoyer • café native</em>
-</p>
+<!-- INTRO LINE -->
+<h2 align="center">hi, i’m <a href="https://github.com/gourimenon8">Gouri Menon</a> ☕</h2>
+<p align="center"><em>ml engineer • cloud ai • streamlit enjoyer • café native</em></p>
 
+<!-- TYPING TAGLINE -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=B784F4&center=true&vCenter=true&width=850&lines=building+real-time+ml+systems;automating+data+pipelines;designing+cloud-native+ai+apps;purple+theme+only+%F0%9F%92%9C" />
 </p>
@@ -46,6 +58,7 @@
 </p>
 
 ---
+
 
 ### featured brews (projects)
 
