@@ -4,13 +4,8 @@
 <div align="center">
   <img src="assets/header.png" alt="boba cat" width="110" height="110" style="border-radius:50%;"/>
   <h1>☕ Gouri Menon 💜</h1>
-  <h3>Data & ML Engineer · Cloud AI · Streamlit Enthusiast</h3>
+  <h3>Data & ML Engineer · Cloud AI · Software Dev</h3>
 </div>
-
-<!-- PURPLE GRADIENT BANNER -->
-<p align="center">
-  <img src="assets/banner.svg" alt="Gouri Menon — Data Scientist & ML Engineer" width="100%" />
-</p>
 
 <!-- WAVE DIVIDER -->
 <p align="center">
