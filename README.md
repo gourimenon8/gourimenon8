@@ -6,13 +6,14 @@
 
 ### 🚀 About Me
 
-I’m a **Data & ML Engineer** passionate about **bridging data science, cloud, and automation** to create real-world impact.
+I’m a **Data & ML Engineer** passionate about **building intelligent systems** that bridge data science, automation, and cloud infrastructure.  
+I love creating tools that make **AI models deployable, scalable, and production-ready**.
 
 - 🎓 **MS in Data Science**, University at Buffalo  
-- 💼 Building scalable pipelines for **energy and finance analytics**  
-- 🧠 Interests: **Time Series • MLOps • Snowflake • Streamlit Dashboards**  
-- ⚙️ Skilled in **AWS, Python, and Cloud-Native Machine Learning**  
-- 🧩 Exploring: **GPU acceleration (PyTorch + CUDA)** & **serverless orchestration (AWS Glue/Lambda)**  
+- 💼 Experienced in building **real-time ML pipelines** and **cloud-based AI applications**  
+- 🧠 Focus areas: **Time-Series Forecasting**, **Deep Learning**, **Model Optimization**, **MLOps**  
+- ☁️ Skilled in **AWS, Snowflake, and modern data platforms**  
+- ⚙️ Exploring **GPU-accelerated modeling (PyTorch + CUDA)** and **serverless orchestration (AWS Glue / Lambda)**  
 
 ---
 
@@ -40,12 +41,10 @@ I’m a **Data & ML Engineer** passionate about **bridging data science, cloud, 
 |:--|:--|:--|:--|
 | 🚀 **CryptoFlow 5m** | Real-time **crypto portfolio optimizer** retraining every 5 minutes with Streamlit dashboard | Python · SciPy · APScheduler · Streamlit | [🔗 Repo](https://github.com/gourimenon8/cryptoflow-5m) |
 | 📈 **Citi Bike Snowflake Timeseries** | Snowpark **feature engineering + forecasting pipeline** with Snowflake Tasks & Streams | Python · Snowflake · SQL | [🔗 Repo](https://github.com/gourimenon8/citi-bike-snowflake-timeseries) |
-| 🛠️ **NYC Taxi Forecasting** | AWS Lambda → Glue → Athena → Streamlit + LightGBM forecasting system | AWS · LightGBM · Streamlit | [🔗 Repo](#) |
-| ⚡ **Lambda + Athena + Power BI** | Serverless ETL → Athena Views → Power BI Dashboard | AWS · Power BI | [🔗 Repo](#) |
-| 🧠 **Salary Prediction App** | Interactive ML Web App predicting salaries by job role & region | Streamlit · scikit-learn | [🔗 Repo](#) |
+| 🧠 **ML Inference Pipeline** | End-to-end automated training → deployment → monitoring system | Python · AWS · MLflow | [🔗 Repo](#) |
+| ⚡ **Streamlit AI Dashboard** | Interactive web app for model explainability + real-time predictions | Streamlit · Plotly · FastAPI | [🔗 Repo](#) |
+| 🧩 **Salary Prediction App** | Predictive ML web app estimating salaries by role & location | scikit-learn · Streamlit | [🔗 Repo](#) |
 
 </div>
 
 ---
-
-
