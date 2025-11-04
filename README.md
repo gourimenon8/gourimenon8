@@ -105,7 +105,7 @@ my current focus lies in mlops, gpu-accelerated model training (pytorch + cuda),
 ---
 
 <p align="center">
-  <img src="assets/drusen.png" width="50" alt="Drusen Segmentation" style="border-radius: 6px;"/>
+  <img src="assets/drusen.png" width="120" alt="Drusen Segmentation" style="border-radius: 6px;"/>
   <br>
   <sub><b> Retinal Drusen Segmentation</b> — PyTorch + SAM prototype for OCT imaging research.</sub>
 </p>
