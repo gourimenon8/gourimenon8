@@ -3,7 +3,7 @@
 <!-- CENTERED INTRO CARD -->
 <div align="center">
   <img src="assets/header.png" alt="boba cat" width="110" height="110" style="border-radius:50%;"/>
-  <h1>☕ Gouri Menon 💜</h1>
+  <h1> Gouri Menon </h1>
   <h3>Data & ML Engineer · Cloud AI · Software Dev</h3>
 </div>
 
@@ -14,13 +14,13 @@
 
 <!-- TAGLINE -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=B784F4&center=true&vCenter=true&width=850&lines=building+real-time+ml+systems;automating+data+pipelines;designing+cloud-native+ai+apps;purple+theme+only+%F0%9F%92%9C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=B784F4&center=true&vCenter=true&width=850&lines=building+real-time+ml+systems;automating+data+pipelines;designing+cloud-native+ai+apps;analyzing+visualization+%F0%9F%92%9C" />
 </p>
 
 <!-- BADGE STRIP -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-ML%20%7C%20MLOps%20%7C%20Cloud-9B59B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fueled_by-Coffee-BA68C8?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-ML%20%7C%20MLOps%20%7C%20Cloud%20%7C%20Data-9B59B6?style=for-the-badge" />
+  logoColor=white" />
 </p>
 
 ---
@@ -42,8 +42,7 @@
 ---
 
 
-
-### featured brews (projects)
+### featured projects
 
 <!-- CARD 1 -->
 <table>
@@ -68,9 +67,9 @@
   <img src="assets/citybike-forecasting.png" alt="Citi Bike Forecasting" width="100%"/>
 </td>
 <td>
-  <h3>📈 Citi Bike Forecasting (on Snowflake)</h3>
-  <p>feature-engineering + forecasting pipeline with tasks & streams, serving analytics directly from Snowflake.</p>
-  <b>stack:</b> snowflake · python · sql  
+  <h3>📈 Citi Bike Forecasting (Full Pipeline) </h3>
+  <p>end-to-end time-series forecasting pipeline for NYC Citi Bike usage — from data collection and feature engineering to model training, evaluation, and deployment via Streamlit.</p>
+  <b>stack:</b> s python · sklearn · pandas · streamlit · docker    
   <br/>
   <a href="https://github.com/gourimenon8/citibike-foreacasting">repo →</a>
 </td>
