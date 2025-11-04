@@ -1,11 +1,13 @@
 <!-- =========================== HEADER =========================== -->
 
-<!-- CENTERED INTRO CARD -->
-<div align="center">
-  <img src="assets/header.png" alt="boba cat" width="110" height="110" style="border-radius:50%;"/>
-  <h1> Gouri Menon </h1>
-  <h3>Data & ML Engineer · Cloud AI · Software Dev</h3>
-</div>
+<p align="center">
+  <img src="assets/header.png" alt="boba cat" width="80" height="80" style="border-radius:50%; vertical-align:middle; margin-right: 12px;"/>
+  <span style="font-size: 36px; font-weight: bold; vertical-align: middle;">Gouri Menon 💜</span>
+</p>
+
+<p align="center">
+  <em>data & ml engineer · cloud ai · streamlit enjoyer · café native</em>
+</p>
 
 <!-- WAVE DIVIDER -->
 <p align="center">
@@ -20,16 +22,20 @@
 <!-- BADGE STRIP -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-ML%20%7C%20MLOps%20%7C%20Cloud%20%7C%20Data-9B59B6?style=for-the-badge" />
-  logoColor=white" />
 </p>
 
 ---
 
 ### ☁️ about me
 
-- i love turning notebooks into **living apps** and **automated pipelines**  
-- currently exploring **gpu-accelerated training** (pytorch + cuda) and **serverless orchestration** (lambda/glue)  
-- if i’m not coding, i’m probably in a cozy café sketching ui ideas on napkins 💜
+🎓 i'm Gouri Menon, a data & ml engineer with a Master's in Data Science from the University at Buffalo, (Engineering Science).  
+my journey began with Physics + Mathematics background, which shaped how i approach modeling and computation  
+
+⚙️ i specialize in building scalable ml & data systems : from cloud pipelines to deployed models.  
+i’ve designed real-time forecasting pipelines, automated etl systems, and interactive dashboards that bring data to life.  
+my current focus lies in mlops, gpu-accelerated model training (pytorch + cuda), and serverless orchestration (aws lambda, glue, snowflake).  
+
+🧩 what excites me most: designing elegant data flows that are fast, transparent, and deployable at scale, all on aws, gcp, or snowflake.  
 
 ---
 
