@@ -68,7 +68,7 @@
   <img src="assets/citybike-forecasting.png" alt="Citi Bike Forecasting" width="100%"/>
 </td>
 <td>
-  <h3>📈 Citi Bike Forecasting (on Snowflake Snowpark)</h3>
+  <h3>📈 Citi Bike Forecasting (on Snowflake)</h3>
   <p>feature-engineering + forecasting pipeline with tasks & streams, serving analytics directly from Snowflake.</p>
   <b>stack:</b> snowflake · python · sql  
   <br/>
