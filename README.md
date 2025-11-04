@@ -32,7 +32,7 @@
 
 ---
 
-### ☁️ about me
+###  about me
 
  i'm Gouri Menon, a data & ml engineer with a Master's in Data Science from the University at Buffalo, (Engineering Science).  
 my journey began with Physics + Mathematics background, which shaped how i approach modeling and computation  
@@ -45,7 +45,7 @@ what excites me most: designing elegant data flows that are fast, transparent, a
 
 ---
 
-### 🧰 toolbox 
+###  toolbox 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,snowflake,docker,kubernetes,git,github,fastapi,linux,postgres,sqlite,streamlit,vscode&perline=8" />
@@ -86,7 +86,7 @@ what excites me most: designing elegant data flows that are fast, transparent, a
   <p>end-to-end time-series forecasting pipeline for NYC Citi Bike usage, from data collection and feature engineering to model training, evaluation, and deployment via Streamlit.</p>
   <b>stack:</b> s python · sklearn · pandas · streamlit · docker    
   <br/>
-  <a href="https://github.com/gourimenon8/citibike-foreacasting">repo →</a>
+  <a href="https://github.com/gourimenon8/citybike-foreacasting">repo →</a>
 </td>
 </tr>
 </table>
