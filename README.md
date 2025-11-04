@@ -15,8 +15,9 @@
 
 <!-- WAVE DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=90&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E1BEE7&height=45&section=header&reversal=true" />
 </p>
+
 
 <!-- TAGLINE -->
 <p align="center">
@@ -32,14 +33,14 @@
 
 ### ☁️ about me
 
-🎓 i'm Gouri Menon, a data & ml engineer with a Master's in Data Science from the University at Buffalo, (Engineering Science).  
+ i'm Gouri Menon, a data & ml engineer with a Master's in Data Science from the University at Buffalo, (Engineering Science).  
 my journey began with Physics + Mathematics background, which shaped how i approach modeling and computation  
 
-⚙️ i specialize in building scalable ml & data systems : from cloud pipelines to deployed models.  
+ i specialize in building scalable ml & data systems : from cloud pipelines to deployed models.  
 i’ve designed real-time forecasting pipelines, automated etl systems, and interactive dashboards that bring data to life.  
-my current focus lies in mlops, gpu-accelerated model training (pytorch + cuda), and serverless orchestration (aws lambda, glue, snowflake).  
+ my current focus lies in mlops, gpu-accelerated model training (pytorch + cuda), and serverless orchestration (aws lambda, glue, snowflake).  
 
-🧩 what excites me most: designing elegant data flows that are fast, transparent, and deployable at scale, all on aws, gcp, or snowflake.  
+what excites me most: designing elegant data flows that are fast, transparent, and deployable at scale, all on aws, gcp, or snowflake.  
 
 ---
 
@@ -61,7 +62,7 @@ my current focus lies in mlops, gpu-accelerated model training (pytorch + cuda),
   <img src="assets/cryptoflow.png" alt="CryptoFlow 5m" width="100%"/>
 </td>
 <td>
-  <h3>🚀 CryptoFlow 5m</h3>
+  <h3> CryptoFlow 5m</h3>
   <p>real-time crypto portfolio optimizer retraining every 5 minutes with a live streamlit dashboard.</p>
   <b>stack:</b> python · scipy · apscheduler · streamlit  
   <br/>
@@ -77,7 +78,7 @@ my current focus lies in mlops, gpu-accelerated model training (pytorch + cuda),
   <img src="assets/citybike-forecasting.png" alt="Citi Bike Forecasting" width="100%"/>
 </td>
 <td>
-  <h3>📈 Citi Bike Forecasting (Full Pipeline) </h3>
+  <h3> Citi Bike Forecasting (Full Pipeline) </h3>
   <p>end-to-end time-series forecasting pipeline for NYC Citi Bike usage, from data collection and feature engineering to model training, evaluation, and deployment via Streamlit.</p>
   <b>stack:</b> s python · sklearn · pandas · streamlit · docker    
   <br/>
@@ -93,7 +94,7 @@ my current focus lies in mlops, gpu-accelerated model training (pytorch + cuda),
   <img src="assets/powerbi.png" alt="Power BI Dashboard" width="100%"/>
 </td>
 <td>
-  <h3>⚡ Serverless ETL → Athena → Power BI</h3>
+  <h3> Serverless ETL → Athena → Power BI</h3>
   <p>two AWS Lambda functions (ingest + filter) feeding Athena views into Power BI dashboards for dynamic visuals.</p>
   <b>stack:</b> aws · athena · power bi  
   <br/>
