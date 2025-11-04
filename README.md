@@ -15,8 +15,9 @@
 
 <!-- WAVE DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E1BEE7&height=45&section=header&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=B57BE2&height=50&section=header&reversal=true" />
 </p>
+
 
 
 <!-- TAGLINE -->
