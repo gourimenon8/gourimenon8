@@ -1,7 +1,7 @@
-<svg width="1600" height="400" viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#8A2BE2"/>
+      <stop offset="0%"  stop-color="#8A2BE2"/>
       <stop offset="50%" stop-color="#B784F4"/>
       <stop offset="100%" stop-color="#BA68C8"/>
     </linearGradient>
@@ -10,12 +10,20 @@
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect width="1600" height="400" fill="url(#g)"/>
+
+  <!-- background -->
+  <rect width="1600" height="360" fill="url(#g)"/>
   <circle cx="1250" cy="120" r="300" fill="url(#glow)"/>
-  <text x="80" y="190" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#fff">
-    Gouri Menon · Data Scientist & ML Engineer
+
+  <!-- title -->
+  <text x="80" y="190" font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="54" font-weight="700" fill="#ffffff">
+    Gouri Menon · Data Scientist &amp; ML Engineer
   </text>
-  <text x="80" y="245" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" fill="#F3E5F5">
+
+  <!-- subtitle -->
+  <text x="80" y="245" font-family="Inter, Segoe UI, Arial, sans-serif"
+        font-size="26" fill="#F3E5F5">
     Building real-time ML systems • Automating data pipelines • Cloud-native AI apps
   </text>
 </svg>
