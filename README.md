@@ -60,14 +60,17 @@ what excites me most: designing elegant data flows that are fast, transparent, a
 <table>
 <tr>
 <td width="35%">
-  <img src="assets/cryptoflow.png" alt="CryptoFlow 5m" width="100%"/>
+  <img src="assets/cryptoflow.png" alt="Blockchain Analytics" width="100%"/>
 </td>
 <td>
-  <h3> CryptoFlow 5m</h3>
-  <p>real-time crypto portfolio optimizer retraining every 5 minutes with a live streamlit dashboard.</p>
-  <b>stack:</b> python · scipy · apscheduler · streamlit  
+  <h3>Bitcoin Blockchain Database & Explorer</h3>
+  <p>designed a <b>PostgreSQL relational schema</b> to store and query Bitcoin blockchain data
+        (70+ GB) — covering <b>blocks, transactions, inputs & outputs</b> — all normalized to <b>BCNF</b>.
+        implemented <b>clustered indexing</b> to improve query performance 40×, and built an
+        interactive <b>Streamlit web explorer</b> for transaction pattern and fund flow visualization.</p>
+  <b>stack:</b> python · postgresql · sqlalchemy · streamlit · pandas   
   <br/>
-  <a href="https://github.com/gourimenon8/cryptoflow-5m">repo →</a>
+  <a href="https://github.com/gourimenon8/blockchain-explorer">repo →</a>
 </td>
 </tr>
 </table>
