@@ -84,9 +84,9 @@ what excites me most: designing elegant data flows that are fast, transparent, a
 <td>
   <h3> Citi Bike Forecasting (Full Pipeline) </h3>
   <p>end-to-end time-series forecasting pipeline for NYC Citi Bike usage, from data collection and feature engineering to model training, evaluation, and deployment via Streamlit.</p>
-  <b>stack:</b> s python · sklearn · pandas · streamlit · docker    
+  <b>stack:</b>  python · sklearn · pandas · streamlit · docker    
   <br/>
-  <a href="https://github.com/gourimenon8/citybike-foreacasting">repo →</a>
+  <a href="https://github.com/gourimenon8/citybike-forecasting">repo →</a>
 </td>
 </tr>
 </table>
