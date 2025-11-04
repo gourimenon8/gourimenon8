@@ -64,10 +64,10 @@ what excites me most: designing elegant data flows that are fast, transparent, a
 </td>
 <td>
   <h3>Bitcoin Blockchain Database & Explorer</h3>
-  <p>designed a <b>PostgreSQL relational schema</b> to store and query Bitcoin blockchain data
-        (70+ GB) — covering <b>blocks, transactions, inputs & outputs</b> — all normalized to <b>BCNF</b>.
-        implemented <b>clustered indexing</b> to improve query performance 40×, and built an
-        interactive <b>Streamlit web explorer</b> for transaction pattern and fund flow visualization.</p>
+  <p>designed a PostgreSQL relational schema to store and query Bitcoin blockchain data
+        (70+ GB), covering blocks, transactions, inputs & outputs, all normalized to BCNF.
+        implemented clustered indexing to improve query performance 40×, and built an
+        interactive Streamlit web explorer for transaction pattern and fund flow visualization.</p>
   <b>stack:</b> python · postgresql · sqlalchemy · streamlit · pandas   
   <br/>
   <a href="https://github.com/gourimenon8/blockchain-explorer">repo →</a>
