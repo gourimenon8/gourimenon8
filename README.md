@@ -1,35 +1,23 @@
-<!-- =========================== HEADER (keep above projects) =========================== -->
+<!-- =========================== HEADER =========================== -->
 
-<!-- TOP HEADER: Cat + Name inline -->
+<!-- CENTERED INTRO CARD -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="assets/header.png" alt="boba cat" width="110" height="110" style="border-radius:50%;" />
-      </td>
-      <td align="center" style="vertical-align: middle;">
-        <h1 style="margin-bottom:6px;">☕ Gouri Menon 💜</h1>
-        <h3 style="margin-top:0;">Data & ML Engineer · Cloud AI · Streamlit Enthusiast</h3>
-      </td>
-    </tr>
-  </table>
+  <img src="assets/header.png" alt="boba cat" width="110" height="110" style="border-radius:50%;"/>
+  <h1>☕ Gouri Menon 💜</h1>
+  <h3>Data & ML Engineer · Cloud AI · Streamlit Enthusiast</h3>
 </div>
 
-<!-- PURPLE BANNER / WAVE -->
+<!-- PURPLE GRADIENT BANNER -->
 <p align="center">
-  <img src="assets/banner.svg" alt="Gouri Menon — Data & ML Engineer" width="100%" />
+  <img src="assets/banner.svg" alt="Gouri Menon — Data Scientist & ML Engineer" width="100%" />
 </p>
 
-<!-- SECONDARY WAVE DIVIDER -->
+<!-- WAVE DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=90&section=header" />
 </p>
 
-<!-- INTRO LINE -->
-<h2 align="center">hi, i’m <a href="https://github.com/gourimenon8">Gouri Menon</a> ☕</h2>
-<p align="center"><em>ml engineer • cloud ai • streamlit enjoyer • café native</em></p>
-
-<!-- TYPING TAGLINE -->
+<!-- TAGLINE -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=B784F4&center=true&vCenter=true&width=850&lines=building+real-time+ml+systems;automating+data+pipelines;designing+cloud-native+ai+apps;purple+theme+only+%F0%9F%92%9C" />
 </p>
@@ -43,21 +31,22 @@
 
 ---
 
-### about me
+### ☁️ about me
 
 - i love turning notebooks into **living apps** and **automated pipelines**  
-- i’m currently exploring **gpu-accelerated training** (pytorch + cuda) and **serverless orchestration** (lambda/glue)  
+- currently exploring **gpu-accelerated training** (pytorch + cuda) and **serverless orchestration** (lambda/glue)  
 - if i’m not coding, i’m probably in a cozy café sketching ui ideas on napkins 💜
 
 ---
 
-### toolbox (purple edition)
+### 🧰 toolbox (purple edition)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,snowflake,docker,kubernetes,git,github,fastapi,linux,postgres,sqlite,streamlit,vscode&perline=8" />
 </p>
 
 ---
+
 
 
 ### featured brews (projects)
