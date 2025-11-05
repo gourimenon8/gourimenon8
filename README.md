@@ -12,12 +12,6 @@
   </table>
 </div>
 
-
-<!-- TAGLINE -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=B784F4&center=true&vCenter=true&width=850&lines=building+real-time+ml+systems;automating+data+pipelines;designing+cloud-native+ai+apps;analyzing+visualization+%F0%9F%92%9C" />
-</p>
-
 ---
 
 ###  about me
