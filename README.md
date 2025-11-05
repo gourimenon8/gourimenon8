@@ -13,21 +13,9 @@
 </div>
 
 
-<!-- WAVE DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=B57BE2&height=50&section=header&reversal=true" />
-</p>
-
-
-
 <!-- TAGLINE -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=B784F4&center=true&vCenter=true&width=850&lines=building+real-time+ml+systems;automating+data+pipelines;designing+cloud-native+ai+apps;analyzing+visualization+%F0%9F%92%9C" />
-</p>
-
-<!-- BADGE STRIP -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-ML%20%7C%20MLOps%20%7C%20Cloud%20%7C%20Data-9B59B6?style=for-the-badge" />
 </p>
 
 ---
@@ -44,15 +32,6 @@ i’ve designed real-time forecasting pipelines, automated etl systems, and inte
 what excites me most: designing elegant data flows that are fast, transparent, and deployable at scale, all on aws, gcp, or snowflake.  
 
 ---
-
-###  toolbox 
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,aws,snowflake,docker,kubernetes,git,github,fastapi,linux,postgres,sqlite,streamlit,vscode&perline=8" />
-</p>
-
----
-
 
 ### featured projects
 
@@ -115,11 +94,6 @@ what excites me most: designing elegant data flows that are fast, transparent, a
   <sub><b> Retinal Drusen Segmentation</b> — PyTorch + SAM prototype for OCT imaging research.</sub>
 </p>
 
-
-<!-- WAVE DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BA68C8&height=90&section=footer&reversal=true" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gouri-menon-646b17b1/">
